@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "64318698671",
+    "firebase_url": "https://delhi-f3129.firebaseio.com",
+    "project_id": "delhi-f3129",
+    "storage_bucket": "delhi-f3129.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64318698671:android:316cc12e3d681da8dcd05a",
+        "android_client_info": {
+          "package_name": "com.covid19.delhi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64318698671-6ckb9ftp3c0l3qbi7svq3to6orng0g61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covid19.delhi",
+            "certificate_hash": "3db8cd558aff88d5fbd857bf239382aeafe23508"
+          }
+        },
+        {
+          "client_id": "64318698671-dh9m31c96urs7lh1liltsr95kqvpt7bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATMXgDE7NYunxCHKmQBJfVrtsfOB0Iv6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64318698671-dh9m31c96urs7lh1liltsr95kqvpt7bp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
